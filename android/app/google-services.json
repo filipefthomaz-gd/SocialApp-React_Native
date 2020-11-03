@@ -15,20 +15,20 @@
       },
       "oauth_client": [
         {
-          "client_id": "388801559154-b69o1kobbevpuh8e2k3efe5b7th85jr3.apps.googleusercontent.com",
+          "client_id": "<CLIENT_ID>",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_nOTLxN6urNgGQBayvWQiW3JP5639z9w"
+          "current_key": "<API_KEY>"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "388801559154-b69o1kobbevpuh8e2k3efe5b7th85jr3.apps.googleusercontent.com",
+              "client_id": "<CLIENT_ID>",
               "client_type": 3
             }
           ]
